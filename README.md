@@ -1,6 +1,6 @@
 # Java-Udemy-POO
 
-####Curso de Java POO da Udemy - https://www.udemy.com/course/java-curso-completo/
+#### Curso de Java POO da Udemy - https://www.udemy.com/course/java-curso-completo/
 
 O curso foca na utilização do java em programação orientada a objeto(POO).
 
@@ -11,8 +11,10 @@ Ele é dividico em 26 Sections:
 1. Introdução ao curso.   (FINALIZADO)
 2. Conceitos básicos de programação.   (FINALIZADO)
 3. Introdução a Linguagem Java.   (FINALIZADO)
-4. Estruturas Sequenciais no Java.   (EM ANDAMENTO)
-   1. [Exercícos](https://github.com/WendrickBarretoCardoso/Java-Exercises/tree/master/Java-sequentialStructure)
+4. Estruturas Sequenciais no Java.   (FINALIZADO)
+   1. [Exercícios](https://github.com/WendrickBarretoCardoso/Java-Exercises/tree/master/Java-sequentialStructure)
+5. Estruturas Condicionais no Java.   (EM ANDAMENTO)
+   1. [Exercícios](https://github.com/WendrickBarretoCardoso/Java-Exercises/tree/master/Java-decisionStructure)
 
 
 VAMOS QUE VAMOS!!!!!!!
